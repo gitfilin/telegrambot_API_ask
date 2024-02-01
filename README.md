@@ -1,8 +1,8 @@
 # Bot
-Это программа связывает вашего телеграм бота c сайтом ask.chadgpt.ru. Она может отправлять запросы и получать ответы. Сайт ask.chadgpt.ru предоставляет Вам доступ к GhatGPT. 
+Это программа связывает вашего telegram бота c сайтом ask.chadgpt.ru. Она может отправлять запросы и получать ответы. Сайт ask.chadgpt.ru предоставляет Вам доступ к GhatGPT.
 
 ## Minimum requirements
-Опаченый аккаунт ask.chadgpt.ru
+Оплаченый аккаунт https://ask.chadgpt.ru/
 
 [Python version 3.6 or higher](https://www.python.org/downloads/)
 
